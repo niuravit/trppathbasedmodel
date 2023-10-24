@@ -1,0 +1,2 @@
+,n,total_dem,init_npr,init_mpr,init_cols,initIP,initIP_te,npr,mpr,tt_m,rtLPcolGenRelax,rtLPcolGenRelax_te,rtIPcolGen,rtIPcolGen_te,rtColAdded,rtIP_remSpace,termCond,upb,lwb,gap,nodesExp,wallTime,bnpTimeLim,bnp_remSpace
+Instance_12n_1,12,38,3,3,3308,100.03618142497571,0.12306380271911621,12,2,5.0,91.9042872872015,0.8858399391174316,91.9042872872015,0.1687469482421875,23,2.8597452082541928,optimality,91.90428728720151,91.90428789473684,0.0,1,9.921190977096558,inf,2.8597452082541928
